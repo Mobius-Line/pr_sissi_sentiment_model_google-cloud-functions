@@ -2,7 +2,7 @@
 # package>=version
 
 google-cloud-storage==1.16.1
-numpy==1.19
+numpy==1.22.0
 gensim==3.8.1
 nltk==3.4.5
 #torch download
